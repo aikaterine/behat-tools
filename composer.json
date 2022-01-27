@@ -18,12 +18,11 @@
     },
     "require": {
         "php": ">=5.5",
-        "behat/behat": "^3.0.13",
+        "behat/behat": "^3.10.0",
         "behat/mink-extension": "^2.3.1",
-        "sabre/dav": "^3.2"
+        "sabre/dav": "^4.3"
     },
     "require-dev": {
-        "behat/mink-goutte-driver": "^1.1",
-        "miiimooo/behat-tools": "dev-master"
+        "behat/mink-goutte-driver": "^2.0"
     }
 }
