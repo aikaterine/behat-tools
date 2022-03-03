@@ -42,7 +42,7 @@ Feature: Content
 ```
 
 
-## DavScreenshotFailureContext
+## DavScreenshotFailureContex
 
 The DavScreenshotFailureContext triggers on a failed stop in a Behat scenario and creates a screenshot in the configured screenshots folder.
 
